@@ -47,3 +47,117 @@
   background: transparent;
   border-radius: 10000px;
 }    
+/* header-styles */
+/* background: url(./img/hero-bg.png);
+    background-repeat: no-repeat; */
+header {
+  background-color: #1a0b2e;
+  padding-top: 16px;
+  
+  /* background-position: center; */
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: #757575;
+}
+
+.hero-img {
+  list-style: none;
+  margin-top: 100px;
+  justify-content: center;
+  margin-bottom: 40px;
+  
+}
+
+@keyframes upDown {
+  50% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(10px); 
+  }
+  
+}
+
+/* navbar-styles */
+
+.header-part {
+  border-bottom: 1px solid #412567;
+  padding-bottom: 16px;
+}
+
+.navbar {
+  justify-content: space-between;
+  margin: 0 auto;
+  max-width: 1200px;
+  align-items: center;
+}
+
+.nav-menu {
+  margin-right: 32px;
+  list-style: none;
+}
+
+.nav-menu a {
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 16px;
+  color: white;
+  line-height: 120%;
+  
+}
+
+/* banner-section */
+
+.batch-shape {
+  position: absolute;
+  top: 0;
+  right: -21px;
+}
+
+.mic-batch {
+  position: relative;
+}
+
+.banner-section {
+  max-width: 550px;
+  justify-content: center;
+  background-position: center center;
+  width: 100%;
+  margin: 0 auto;
+  background: url(./img/hero-bg.png);
+  text-align: center;
+  padding-top: 101px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.mic {
+  margin-top: 80px;
+  margin-left: -235px;
+  animation: upDown 1.8s ease-in-out infinite;
+}
+
+.banner-img {
+  margin: 0 auto 40px auto;
+}
+
+.banner-container {
+  background: url(./img/hero-bg.png) center no-repeat;
+  padding: 101px 625px 150px 625px;
+ background-size: cover;
+}
+.banner-tech {
+  text-align: center;
+  font-size: 3.75rem;
+  color: white;
+/* margin-bottom: 8px; */
+}
+
+
+
