@@ -351,6 +351,175 @@ hr {
   /* margin: 107px 285px 16px 40px; */
   /* align-items: start; */
 }
+.rich-resource {
+  display: flex;
+  justify-items: start;
+  margin-bottom: 16px;
+  /* justify-content: start; */
+  /* margin: 107px 285px 16px 40px; */
+  /* align-items: start; */
+}
+
+.grid-header {
+  font-size: 3rem;
+  font-weight: bold;
+  padding-top: 120px;
+  color: white;
+}
+
+.grid-sector {
+  margin: 0 auto;
+  max-width: 1200px;
+  justify-content: center;
+  text-align: center;
+}
+
+.contain {
+  display: grid;
+  gap: 30px;
+  max-width: 1200px;
+  margin-top: 40px;
+  grid-template-columns: repeat(3, 1fr);
+  padding-bottom: 120px;
+  /* margin-bottom: 120px; */
+}
+
+.semi-layout {
+  grid-column: span 1;
+  align-items: center;
+  border-radius: 20px;
+  background-color: #351165;
+  grid-row: span 2;
+  overflow: hidden;
+  display: flex;
+  padding: 40px 40px;
+  
+}
+.layout-a {
+  grid-column: span 2;
+  border-radius: 20px;
+  grid-row: span 1;
+  background-color: #351165;
+  padding: 40px 40px;
+  
+}
+.layout-b {
+  grid-column: span 1;
+  background-color: #351165;
+  grid-row: span 1;
+  border-radius: 20px;
+  padding: 40px 40px;
+  /* justify-items: center; */
+  /* align-items: center; */
+  /* justify-content: center; */
+  /* text-align: center; */
+}
+
+.grid-bold {
+  font-size: 24px;
+  text-align: start;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 16px;
+  
+}
+
+.grid-para {
+  text-align: start;
+  font-size: 15px;
+  line-height: 24px;
+  color: white;
+  font-weight: 300px;
+  
+  /* font-weight: bold; */
+}
+
+.iframe {
+  border-radius: 15px 15px 0px 0px;
+}
+
+/* episode-section */
+
+#episode-section {
+  justify-content: center;
+  width: 1200px;
+  padding-bottom: 120px;
+  display: flex;
+  gap: 30px;
+  margin: 0 auto;
+}
+
+.episode {
+  padding-bottom: 40px;
+  margin: 0 auto;
+  justify-content: center;
+  width: 1200px;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  font-size: 48px;
+  padding-top: 120px;
+  
+}
+
+.episode-point {
+  border-radius: 15px;
+  background-color: #250d44;
+}
+.episode-title {
+    font-weight: bold;
+    font-size: 24px;
+    padding: 24px 24px 12px 24px;
+    line-height: 36px;
+    color: white;
+}
+.episode-info {
+  font-weight: 400;
+  padding: 0px 24px 12px 24px;
+  font-size: 16px;
+  line-height: 24px;
+  color: white;
+}
+
+.clock-logo {
+  align-items: center;
+  gap: 6px;
+  display: flex;
+  padding: 12px 24px 24px 24px;
+}
+
+.size {
+ height: 20px;
+  width: 20px;
+  /* padding: 12px 24px 24px 24px; */
+}
+.video-time {
+  font-weight: 600px;
+  font-size: 16px;
+  line-height: 24px;
+  color: #00ff88;
+}
+
+.alex {
+  margin: 0 auto;
+  width: 1200px;
+  text-align: center;
+  justify-content: center;
+  font-size: 48px;
+  color: white;
+  padding-bottom: 40px;
+  font-weight: bold;
+}
+#container-two {
+  margin: 0 auto;
+  width: 1200px;
+  background-color: #250d44;
+  align-items: center;
+  display: flex;
+  gap: 24px;
+  margin-bottom: 120px;
+  border-radius: 40px;
+}
 
 
 
