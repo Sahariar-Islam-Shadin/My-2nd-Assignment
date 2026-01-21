@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  
+}
+
+.flare-fonts {
+  font-optical-sizing: auto;
+  font-family: "Inter", sans-serif;
+  
+}
+
+/* styles started */
+
+.hamburg{
+  display: none;
+}
+
+.flex {
+  display: flex;
+}
+
+.all-baton {
+  list-style: none;
+  justify-content: center;
+  gap: 8px;
+}
+
+.bn {
+  color: white;
+  font-weight: 600px;
+  font-size: 16px;
+  padding: 10px 16px;
+  border: none;
+  background: linear-gradient(90deg, #f7e93f 0%, #fb09b4 51%, #9100f8 100%);
+  margin-right: 8px;
+  border-radius: 10000px;
+}
+
+.bn-two {
+  border: 1px solid #00ff88;
+  color: #00ff88;
+  font-size: 16px;
+  padding: 10px 20px;
+  font-weight: 600px;
+  background: transparent;
+  border-radius: 10000px;
+}    
