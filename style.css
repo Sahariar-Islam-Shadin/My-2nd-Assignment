@@ -159,5 +159,199 @@ hr {
 /* margin-bottom: 8px; */
 }
 
+.banner-baton {
+  padding-bottom: 101px;
+}
+
+.banner-para {
+  color: white;
+  padding-bottom: 24px;
+  text-align: center;
+  font-size: 0.9375rem;
+}
+
+/* main-part */
+
+
+.main-section {
+  max-width: 1200px;
+  margin: 0 auto;
+  justify-content: center;
+  text-align: center;
+}
+
+.color {
+  background-color: #1a0b2e;
+}
+
+/* info-section  */
+
+  .info-section h3 {
+  font-weight: bold;
+  color: white;
+  font-size: 3rem;
+  margin-bottom: 16px;
+}
+
+/* padding-top: 50px; */
+
+.p-a {
+  line-height: 20px;
+  font-size: 0.9375rem;
+  color: white;
+  
+}
+.p-c {
+  font-size: 0.9375rem;
+  margin-bottom: 20px;
+  color: white;
+  line-height: 20px;
+ 
+}
+.p-d {
+  line-height: 20px;
+  color: white;
+  font-size: 0.9375rem;
+  margin-bottom: 50px;
+}
+/* numb-part */
+.numb-part {
+  width: 1200px;
+  display: flex;
+  margin: 0 auto;
+  padding-top: 80px;
+  padding-bottom: 120px;
+  text-align: center;
+  justify-content: space-between;
+}
+
+.card-header {
+  font-weight: 900px;
+  color: #00ff88;
+  font-size: 3rem;
+}
+
+.info {
+  color: white;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+/* grid-sector */
+
+#choose {
+  background-color: #230e3d;
+  /* max-width: 1200px; */
+}
+.headphone-img {
+  justify-items: start;
+  display: flex;
+  margin-bottom: 16px;
+  /* justify-content: start; */
+  /* margin: 107px 285px 16px 40px; */
+  /* align-items: start; */
+}
+.banner-baton {
+  padding-bottom: 101px;
+}
+
+.banner-para {
+  color: white;
+  padding-bottom: 24px;
+  text-align: center;
+  font-size: 0.9375rem;
+}
+
+/* main-part */
+
+
+.main-section {
+  max-width: 1200px;
+  margin: 0 auto;
+  justify-content: center;
+  text-align: center;
+}
+
+.color {
+  background-color: #1a0b2e;
+}
+
+/* info-section  */
+
+  .info-section h3 {
+  font-weight: bold;
+  color: white;
+  font-size: 3rem;
+  margin-bottom: 16px;
+}
+
+/* padding-top: 50px; */
+
+.p-a {
+  line-height: 20px;
+  font-size: 0.9375rem;
+  color: white;
+  
+}
+.p-c {
+  font-size: 0.9375rem;
+  margin-bottom: 20px;
+  color: white;
+  line-height: 20px;
+ 
+}
+.p-d {
+  line-height: 20px;
+  color: white;
+  font-size: 0.9375rem;
+  margin-bottom: 50px;
+}
+/* numb-part */
+.numb-part {
+  width: 1200px;
+  display: flex;
+  margin: 0 auto;
+  padding-top: 80px;
+  padding-bottom: 120px;
+  text-align: center;
+  justify-content: space-between;
+}
+
+.card-header {
+  font-weight: 900px;
+  color: #00ff88;
+  font-size: 3rem;
+}
+
+.info {
+  color: white;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+/* grid-sector */
+
+#choose {
+  background-color: #230e3d;
+  /* max-width: 1200px; */
+}
+.headphone-img {
+  justify-items: start;
+  display: flex;
+  margin-bottom: 16px;
+  /* justify-content: start; */
+  /* margin: 107px 285px 16px 40px; */
+  /* align-items: start; */
+}
+.eco-img {
+  display: flex;
+  justify-items: start;
+  margin-bottom: 16px;
+  /* justify-content: start; */
+  /* margin: 107px 285px 16px 40px; */
+  /* align-items: start; */
+}
+
+
 
 
